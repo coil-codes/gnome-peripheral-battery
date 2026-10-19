@@ -1,0 +1,8 @@
+{
+  "uuid": "peripheral-battery@coil-codes.github.io",
+  "name": "Peripheral Battery",
+  "description": "Shows the battery level of wireless mice, keyboards, controllers and headsets in the top bar, read from UPower.\n\nBluetooth devices that disconnect keep their last reading, dimmed, for up to 14 days.",
+  "shell-version": ["51"],
+  "url": "https://github.com/coil-codes/gnome-peripheral-battery",
+  "version-name": "1.0"
+}

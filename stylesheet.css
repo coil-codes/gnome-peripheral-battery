@@ -1,0 +1,8 @@
+/* SPDX-License-Identifier: GPL-2.0-or-later */
+.pbat { spacing: 4px; }
+.pbat-label { font-feature-settings: "tnum"; }
+.pbat-low .pbat-label,
+.pbat-low .pbat-icon { color: #d9a441; }
+.pbat-critical .pbat-label,
+.pbat-critical .pbat-icon { color: #e0605a; }
+.pbat-charging .pbat-icon { color: #6fb08e; }
